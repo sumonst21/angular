@@ -208,7 +208,7 @@
     "rewire": "2.5.2",
     "rollup-plugin-hashbang": "^2.2.2",
     "sauce-connect": "https://saucelabs.com/downloads/sc-4.6.2-linux.tar.gz",
-    "semver": "^6.3.0",
+    "semver": "^6.3.1",
     "ts-node": "^8.6.2",
     "tslint-eslint-rules": "5.4.0",
     "tslint-no-toplevel-property-access": "0.0.2",
